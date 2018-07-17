@@ -25,12 +25,12 @@ Run the commads in order to run the app
 
 ## Built With
 
-*AngularCli
+AngularCli
  
 
 ## Authors
 
 * **Jitesh Gupta** - *Initial work* - (https://github.com/jitesh77)
-*Website*-(https://jiteshgupta.000webhostapp.com)
+* *Website*-(https://jiteshgupta.000webhostapp.com)
 
 
