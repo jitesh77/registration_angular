@@ -4,7 +4,7 @@ Angular_registration
 
 ## Getting Started
 
-It is an angular web app for login and registration and will run on the localhost:4200.
+It is an angular web app for login and registration and will run on the localhost:4200
 
 
 ### Installing
