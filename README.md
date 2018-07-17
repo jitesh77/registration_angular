@@ -1,5 +1,6 @@
-# angular2-registration-login-example-cli
+# angular_registration
 
-Angular 2/5 User Registration and Login Example with Angular CLI
+How to run the app
 
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+1.npm install
+2.ng serve
